@@ -5,6 +5,3 @@ NewTestLink
 
 ### Platform
 - Google Chtome
-- Microsoft Edge
-- Firefox
-- Safari
